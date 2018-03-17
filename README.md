@@ -1,0 +1,2 @@
+# Ubezpieczalnia_SQL
+Project_Ubezpieczalni
